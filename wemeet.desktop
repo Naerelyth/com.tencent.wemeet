@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=WemeetApp
+Name=Wemeet
 Name[zh_CN]=腾讯会议
 Keywords=wemeet;tencent;meeting;
 Exec=wemeetapp %u
